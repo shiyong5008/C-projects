@@ -1,0 +1,19 @@
+-bash-4.2$ ls
+monorepo-shiyong5008
+-bash-4.2$ cd
+-bash-4.2$ cd mon
+-bash: cd: mon: No such file or directory
+-bash-4.2$ cd monorepo-shiyong5008
+-bash-4.2$ ls
+Assignment1_GuessingGame  faq.md             README.md
+Cheatsheets               Lab1_UnixTerminal  Tips.md
+-bash-4.2$ cd Lab1_UnixTerminal/
+-bash-4.2$ ls
+ExternalResources  images  main.c  output.txt  README.md
+-bash-4.2$ man
+What manual page do you want?
+-bash-4.2$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+-bash-4.2$ sort
+

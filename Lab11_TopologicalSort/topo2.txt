@@ -1,0 +1,11 @@
+eat sleep
+eat exercise
+exercise shower
+exercise drink
+sleep dream
+shower washing
+washing dry
+dry fold
+dream laugh
+laugh wakeup
+
